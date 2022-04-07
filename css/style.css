@@ -34,6 +34,10 @@ hr {
   width: 4%;
 }
 
+p {
+  line-height: 2;
+}
+
 a {
   color: #11999E;
   text-decoration: none;
@@ -59,12 +63,10 @@ a:hover {
 
 .middle-container {
   margin: 100px 0;
-  font-weight: 600;
 }
 
 .bottom-container {
   background-color: #66BFBF;
-  font-weight: 600;
   padding: 50px 0 20px;
 }
 
@@ -73,10 +75,8 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
+  width: 40%;
   margin: auto;
-  line-height: 2;
-  font-weight: 600;
 }
 
 .contact-message {
